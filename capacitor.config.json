@@ -1,0 +1,8 @@
+{
+  "appId": "com.eyad.tanaffasquran",
+  "appName": "تنفّس القرآن",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
